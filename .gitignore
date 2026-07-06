@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+uploads/
+.DS_Store
+my_resume.pdf

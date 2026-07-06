@@ -1,0 +1,33 @@
+张三
+电话: 138-0000-0000 | 邮箱: zhangsan@example.com | GitHub: github.com/zhangsan
+
+教育背景
+本科-计算机科学与技术 | XX大学 | 2024年毕业 | GPA 3.6/4.0
+
+技能
+编程语言: Python, Java, C, SQL
+Web框架: Django, FastAPI
+数据库: MySQL, Redis
+工具: Git, Docker, Linux, Postman
+其他: 数据分析(Pandas), 机器学习基础(Scikit-learn)
+
+项目经历
+1. 电商数据可视化平台 | Python, Django, MySQL | 2024.02 - 2024.05
+   - 独立开发后端API接口,使用Django REST Framework
+   - 设计MySQL数据库表结构,优化慢查询,将首页加载时间从3s降到0.5s
+   - 使用Redis缓存热点数据,QPS从200提升到2000
+
+2. 学生成绩管理系统 | Java, Spring Boot, MySQL | 2023.09 - 2023.12
+   - 参与课程设计项目,负责学生选课和成绩统计分析模块
+   - 使用Spring Boot搭建RESTful API,实现CRUD操作
+   - 编写SQL复杂查询(多表JOIN、GROUP BY、子查询)
+
+实习经历
+XX科技有限公司 | 后端开发实习生 | 2023.06 - 2023.09
+- 参与公司CRM系统后端开发,使用Django框架
+- 负责3个功能模块的接口开发和单元测试
+- 与前端团队协作完成5次迭代需求交付
+
+荣誉
+- 蓝桥杯程序设计竞赛省级二等奖
+- 大学英语六级(CET-6)
